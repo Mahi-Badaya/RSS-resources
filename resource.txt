@@ -2,3 +2,4 @@ https://help.apple.com/itc/podcasts_connect/#/itcbaf351599
 https://podba.se/validate/
 https://cyber.harvard.edu/rss/rss.html
 https://support.squarespace.com/hc/en-us/articles/205814338-Podcasting-with-Squarespace-overview
+https://developers.google.com/search/blog/2014/10/best-practices-for-xml-sitemaps-rssatom
