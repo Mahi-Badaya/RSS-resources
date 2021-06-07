@@ -4,3 +4,11 @@ https://cyber.harvard.edu/rss/rss.html
 https://support.squarespace.com/hc/en-us/articles/205814338-Podcasting-with-Squarespace-overview
 https://developers.google.com/search/blog/2014/10/best-practices-for-xml-sitemaps-rssatom
 https://dcblog.dev/create-an-rss-feed-with-php
+https://help.soundcloud.com/hc/en-us/articles/115003570048
+
+Online RSS Builders:-
+https://rss.com/
+https://sourceforge.net/projects/rss-builder/
+
+Validate your RSS here:-
+https://castfeedvalidator.com/
