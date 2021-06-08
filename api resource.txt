@@ -6,3 +6,4 @@ https://www.toptal.com/nodejs/secure-rest-api-in-nodejs
 -Node.js will typically be used to serve up API requests, so it’s usually just a thin layer between a web client and a database. On the other hand, you might use PHP for the whole stack including the compilation and rendering of a webpage.
 -https://stackoverflow.com/questions/41789080/php-vs-node-rest-api
 -https://www.freecodecamp.org/news/securing-node-js-restful-apis-with-json-web-tokens-9f811a92bb52/
+-https://developer.okta.com/blog/2018/08/21/build-secure-rest-api-with-node
